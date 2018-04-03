@@ -1,0 +1,26 @@
+{
+  "axios": {
+    "baseUrl": "https://api.electroneum.com/v2",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Linux; Android 8.0.0; Mi A1 Build/OPR1.170623.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "origin": "file://",
+      "accept": "application/json, text/plain, */*",
+      "content-type": "application/json",
+      "accept-encoding": "gzip, deflate",
+      "accept-language": "ru-RU,en-US;q=0.9",
+      "x-requested-with": "com.electroneum.mobile"
+    }
+  },
+  "device": {
+    "cordova": "6.2.3",
+    "model": "Mi A1",
+    "platform": "Android",
+    "uuid": null,
+    "version": "8.0.0",
+    "manufacturer": "Xiaomi",
+    "isVirtual": false,
+    "connectionType": "wifi",
+    "background": false
+  },
+  "workersCount": 4
+}

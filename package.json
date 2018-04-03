@@ -1,0 +1,16 @@
+{
+  "name": "etn_mobile_miner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lowdb": "^1.0.0",
+    "stack-trace": "0.0.10"
+  }
+}

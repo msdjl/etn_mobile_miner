@@ -1,0 +1,4 @@
+src/config/credentials.json
+src/config/db.json
+node_modules/
+.idea/
